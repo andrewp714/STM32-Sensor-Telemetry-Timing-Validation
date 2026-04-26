@@ -47,9 +47,7 @@ Analog Signal → ADC → UART → Python → Analysis & Visualization
 
 ADC readings converted to voltage:
 
-[
-V = \frac{ADC}{4095} \times 3.3
-]
+V = $\frac{ADC}{4095}$ * 3.3
 
 Observed range:
 
